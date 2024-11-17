@@ -1,6 +1,7 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 ### NAME : NIRAUNJANA GAYATHRI G R
 ### REG NO. 212222230096 
+### DATE :
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
